@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "570125697714",
+    "firebase_url": "https://hamster-clone-4788b-default-rtdb.firebaseio.com",
+    "project_id": "hamster-clone-4788b",
+    "storage_bucket": "hamster-clone-4788b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570125697714:android:0433a68e5569d08f62ffab",
+        "android_client_info": {
+          "package_name": "com.elpisgames.hamsterclone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxovZhFVEohMu15IjElFeidk_ufmEKBQg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
